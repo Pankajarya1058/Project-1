@@ -20,7 +20,7 @@ This project demonstrates a basic Node.js application containerized with Docker 
 - GitHub repository with Actions enabled
 
 ## Project Structure
-
+```
 project-root/
 ├── app.js 
 ├── package.json 
@@ -29,6 +29,7 @@ project-root/
 │           └── ci.yml 
 └── test/ 
       └── sample.test.js
+```
 
 ## Getting Started
 
